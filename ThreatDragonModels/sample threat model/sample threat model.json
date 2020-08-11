@@ -1,9 +1,11 @@
 {
   "summary": {
-    "title": "sample threat model"
+    "title": "sample threat model",
+    "owner": "deepak"
   },
   "detail": {
     "contributors": [],
-    "diagrams": []
+    "diagrams": [],
+    "reviewer": "deepak"
   }
 }
